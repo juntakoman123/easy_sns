@@ -1,24 +1,41 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+まず初めに今回は簡易的な、いわゆるsnsを作ってみようと思います
 
-Things you may want to cover:
+* rubyのバージョン 2.5.1
 
-* Ruby version
+* railsのバージョン 5.2.3
 
-* System dependencies
+* os: ubuntu18.04(linux)
 
-* Configuration
+* Database: postgresql
 
-* Database creation
+* Database_version: 9.5
 
-* Database initialization
+* test: minitest
 
-* How to run the test suite
+機能面として実装するリスト
 
-* Services (job queues, cache servers, search engines, etc.)
+* ログイン機能
 
-* Deployment instructions
+* 投稿機能
 
-* ...
+* 投稿一覧,詳細表示機能
+
+* 管理ユーザー機能
+
+* 投稿編集、削除機能
+
+* プロフィール機能
+
+* 画像ファイルのアップロード機能
+
+* 動画ファイルのアップロード機能
+
+* ページネーション機能
+
+* フォロー機能
+
+* いいね機能
+
+基本の機能を実装していきます
